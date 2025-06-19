@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hi there 👋
 =======
 ## Hi there 👋
@@ -20,6 +19,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
->>>>>>> 9977bd4903faef913b4cf3939c72eeaed8b2085a
----
-[![](https://visitcount.itsvg.in/api?id=marifuenre&icon=0&color=0)](https://visitcount.itsvg.in)
